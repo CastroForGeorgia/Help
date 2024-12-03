@@ -12,6 +12,92 @@ The **Housing Choice Voucher Program (HCV)**, commonly known as **Section 8**, i
 
 Participants can choose their own housing, including single-family homes, townhouses, and apartments, as long as the housing meets program requirements.
 
+---
+
+## Eligibility
+
+To qualify for the Housing Choice Voucher Program, applicants must meet the following criteria:
+
+- **Income Limits**: Household income must not exceed the limits set by the program. For detailed eligibility information, visit the [Applicant Information][7] page.
+  
+- **Family Composition**: Open to individuals, families, seniors, and persons with disabilities.
+  
+- **Citizenship Status**: Must be a U.S. citizen or have eligible immigration status.
+  
+- **Criminal Background**: Certain criminal histories may disqualify applicants.
+  
+- **Eviction History**: Applicants should not have been evicted from public housing or terminated from another Housing Choice Voucher Program for violating program requirements.
+
+---
+
+## Application Process
+
+1. **Check Waiting List Availability**: Visit the [Housing Choice Voucher][1] page to see if applications are currently being accepted.
+   
+2. **Submit an Application**:
+
+   - **Online**: When the waiting list is open, complete the application through the [Applicant Portal][7].
+   
+   - **Assistance**: If you require special accommodations due to a disability, contact DCA for assistance.
+   
+   - **Application Guide**: Refer to the [Applicant Information][7] page for guidance.
+   
+3. **Confirmation**: After submitting your application, you will receive a confirmation number.
+   
+4. **Waiting List Placement**:
+
+   - Applicants are placed on the waiting list based on the date and time of their application.
+   
+   - Some preferences may apply, such as for veterans or persons experiencing homelessness.
+   
+5. **Notification**: DCA will notify you when your application reaches the top of the waiting list.
+   
+6. **Eligibility Verification**:
+
+   - Provide necessary documentation, including proof of income and identification.
+   
+   - Attend an eligibility interview if required.
+   
+7. **Voucher Issuance**: If eligible, you will receive a Housing Choice Voucher indicating the bedroom size for which your family qualifies.
+   
+8. **Housing Search**:
+
+   - Find suitable housing that meets DCA's Housing Quality Standards.
+   
+   - The landlord must agree to participate in the HCV Program.
+   
+9. **Lease and Contract Signing**:
+
+   - Sign a lease agreement with the landlord.
+   
+   - DCA will enter into a Housing Assistance Payments (HAP) contract with the landlord.
+   
+10. **Ongoing Participation**:
+    
+    - Comply with program rules and lease terms.
+    
+    - Report any changes in income or family composition.
+    
+    - Recertify annually.
+
+---
+
+## Participant Obligations
+
+Participants in the Housing Choice Voucher Program must:
+
+- **Pay a Portion of Rent**: Typically 30% of your adjusted monthly income.
+  
+- **Maintain the Unit**: Keep the property in good condition and report any issues to the landlord.
+  
+- **Comply with Lease Terms**: Follow all rules and conditions set by the lease agreement.
+  
+- **Report Changes**: Notify DCA immediately if there are changes to income, assets, or family size.
+  
+For additional details, visit the [Participants][4] page.
+
+---
+
 ## Key Links and Resources
 
 ### Internal Resources
@@ -34,6 +120,8 @@ Participants can choose their own housing, including single-family homes, townho
 4. **[YouTube Channel for Georgia DCA][13]**
 5. **[Instagram Page for Georgia DCA][14]**
 
+---
+
 ## Contact Information
 
 - **Georgia Department of Community Affairs (DCA)**
@@ -51,6 +139,8 @@ Participants can choose their own housing, including single-family homes, townho
     60 Executive Park South, NE
     Atlanta, GA 30329
     ```
+
+---
 
 ## Fair Housing
 
