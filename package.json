@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@chainlit/react-client": "^0.2.0"
+  }
+}
